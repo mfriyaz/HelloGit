@@ -3,5 +3,6 @@ public class HelloGit {
                        // TODO Auto-generated method stub
                             System.out.println("Hello World") ;
                             System.out.println("Hello Sea") ;
+		            System.out.println("Hello Sea") ;
     }
 }
