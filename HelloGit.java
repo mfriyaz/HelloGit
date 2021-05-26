@@ -2,7 +2,7 @@ public class HelloGit {
 	  public static void main(String[] args) {
                        // TODO Auto-generated method stub
                             System.out.println("Hello World") ;
-                            System.out.println("Hello Sea") ;
-		            System.out.println("Hello Sea") ;
+                            System.out.println("Hello Riyaz") ;
+		            System.out.println("Hello Fousiyya") ;
     }
 }
