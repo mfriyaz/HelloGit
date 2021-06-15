@@ -4,6 +4,5 @@ public class HelloGit {
                             System.out.println("Hello Riyaz") ;
 		            System.out.println("Hello Fousiyya") ;
 		   System.out.println("Hello aaaaAhamed") ;
-		  System.out.println("Hello aaaaAhamed") ;
-    }
+		   }
 }
